@@ -8,7 +8,7 @@ The frontend for the **Material Recognition Model** is built using **Next.js**, 
 
 ## Prerequisites
 
-- **Node.js** (v14 or later)
+- **Node.js** (v14 or later) 
 - **npm** package manager
 ## Project Structure
 
