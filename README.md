@@ -4,6 +4,7 @@ This project uses the ChemBERTa model for molecular property predictions based o
 
 
 
+
 The frontend for the **Material Recognition Model** is built using **Next.js**, a React-based framework that supports server-side rendering and optimized performance. This interface allows users to input **SMILES** strings and receive predictions for molecular properties.
 
 ## Prerequisites
